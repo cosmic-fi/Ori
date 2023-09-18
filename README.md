@@ -19,6 +19,12 @@ Ori is your go-to online messaging platform for real-time communication, current
 
 Ori is currently in active development. Stay tuned for updates on how to sign up and start using Ori for seamless real-time messaging!
 
+## Support Development
+
+If you'd like to support the development of Ori, you can contribute by buying us a coffee! Your support will help us enhance Ori and bring more features to you.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Development-yellow.svg)](https://www.buymeacoffee.com/vanny_y)
+
 ## Technology Stack
 
 Ori is being built using a modern and powerful technology stack:
